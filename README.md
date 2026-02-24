@@ -17,7 +17,7 @@ See comparisons between Microsoft Edge vs David Browser using the same bookmarks
 
 ## "Windows Explorer" Section
 
-![Alt text](1.jpg)
+![Alt text](DavidBrowser1.jpg)
 
 See comparisons between Microsoft Edge vs David Browser using the same bookmarks so they can be compared side by side
 
